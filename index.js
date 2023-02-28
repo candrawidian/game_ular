@@ -1,4 +1,4 @@
-//******author: Max Harold******
+//******author: Candra Widian******
 
 //the canvas
 var c = document.getElementById("c"); 
